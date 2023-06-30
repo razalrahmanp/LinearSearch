@@ -1,0 +1,15 @@
+G:\Razal\Sourcecodes\C#\Algorithms\LinearSearch\obj\Debug\net7.0\LinearSearch.csproj.AssemblyReference.cache
+G:\Razal\Sourcecodes\C#\Algorithms\LinearSearch\obj\Debug\net7.0\LinearSearch.GeneratedMSBuildEditorConfig.editorconfig
+G:\Razal\Sourcecodes\C#\Algorithms\LinearSearch\obj\Debug\net7.0\LinearSearch.AssemblyInfoInputs.cache
+G:\Razal\Sourcecodes\C#\Algorithms\LinearSearch\obj\Debug\net7.0\LinearSearch.AssemblyInfo.cs
+G:\Razal\Sourcecodes\C#\Algorithms\LinearSearch\obj\Debug\net7.0\LinearSearch.csproj.CoreCompileInputs.cache
+G:\Razal\Sourcecodes\C#\Algorithms\LinearSearch\bin\Debug\net7.0\LinearSearch.exe
+G:\Razal\Sourcecodes\C#\Algorithms\LinearSearch\bin\Debug\net7.0\LinearSearch.deps.json
+G:\Razal\Sourcecodes\C#\Algorithms\LinearSearch\bin\Debug\net7.0\LinearSearch.runtimeconfig.json
+G:\Razal\Sourcecodes\C#\Algorithms\LinearSearch\bin\Debug\net7.0\LinearSearch.dll
+G:\Razal\Sourcecodes\C#\Algorithms\LinearSearch\bin\Debug\net7.0\LinearSearch.pdb
+G:\Razal\Sourcecodes\C#\Algorithms\LinearSearch\obj\Debug\net7.0\LinearSearch.dll
+G:\Razal\Sourcecodes\C#\Algorithms\LinearSearch\obj\Debug\net7.0\refint\LinearSearch.dll
+G:\Razal\Sourcecodes\C#\Algorithms\LinearSearch\obj\Debug\net7.0\LinearSearch.pdb
+G:\Razal\Sourcecodes\C#\Algorithms\LinearSearch\obj\Debug\net7.0\LinearSearch.genruntimeconfig.cache
+G:\Razal\Sourcecodes\C#\Algorithms\LinearSearch\obj\Debug\net7.0\ref\LinearSearch.dll
